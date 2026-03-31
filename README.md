@@ -155,9 +155,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- GitHub: [https://github.com/Ti63](https://github.com/seu-usuario)
+- Email: 0000111187430xsp@al.educacao.sp.gov.br
 
 ## 📞 Suporte
 
