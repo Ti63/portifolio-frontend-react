@@ -153,9 +153,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 👤 Autor
 
-**Seu Nome**
+**Thiago Henrique**
 
-- GitHub: [https://github.com/Ti63](https://github.com/seu-usuario)
+- GitHub: [https://github.com/Ti63](https://github.com/Ti63)
 - Email: 0000111187430xsp@al.educacao.sp.gov.br
 
 ## 📞 Suporte
